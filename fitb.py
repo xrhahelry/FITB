@@ -46,7 +46,6 @@ for a,b in abValues:
                 available.remove(l)
                 available.remove(k)
                 available.remove(c)
-
                 mnValues = []
 
                 for i in range(0, len(available)):
@@ -78,12 +77,6 @@ for a,b in abValues:
                             print(used)
                             print(available)
                             print("")
-                        else:
-                            print(used)
-                            print(available)
-                            print("")
-
-
 
                 used = []
                 available = []
