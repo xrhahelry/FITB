@@ -86,5 +86,3 @@ for a,b in abValues:
 
                 for i in range(0, len(tempused)):
                     used.append(tempused[i])
-
-## sdfhasldj
